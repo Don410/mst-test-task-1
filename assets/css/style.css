@@ -1,6 +1,6 @@
 @font-face {
   font-family: "Prata";
-  src: url(/assets/fonts/Prata-Regular.ttf);
+  src: url(../fonts/Prata-Regular.ttf);
 }
 * {
   margin: 0;
@@ -334,7 +334,7 @@ header nav .menu {
   display: flex;
   justify-content: start;
   border: 2px solid #D5C9BE;
-  background-image: url(/assets/images/bg-contact1.png);
+  background-image: url(../images/bg-contact1.png);
   background-position: 100% 0;
   background-repeat: no-repeat;
   background-size: 90% 100%;
@@ -360,7 +360,7 @@ header nav .menu {
   width: 100%;
   height: calc(100% + 64px);
   border-radius: 30px;
-  background-image: url(/assets/images/bg-contact.png);
+  background-image: url(../images/bg-contact.png);
   background-position: 91% 0;
   background-repeat: no-repeat;
   background-size: contain;
